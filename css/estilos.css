@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    font-family:  'Times New Roman', serif;
+}
+
+#cabecera{
+    color: aliceblue;
+    background-color: black;
+}
+
+
+.directorio{
+    border: 3px, black;
+    
+}
+
+.directorio h1{
+    color: blueviolet;
+}
